@@ -1,13 +1,13 @@
 <!-- Header Banner -->
 <div align="center">
 
-                      ```
+                                   ```
                      ╔══════════════════════════════════════════════════════════════╗
                      ║                                                              ║
                      ║        🔍  Q U A L I T Y   A S S U R A N C E  🔍            ║
                      ║                                                              ║
                      ╚══════════════════════════════════════════════════════════════╝
-                      ```
+                                     ```
 
 # Hi, I'm Moshiur Rahman 👋
 ### SQA Engineer · Bug Hunter · Quality Advocate
